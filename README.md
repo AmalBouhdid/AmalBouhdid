@@ -1,4 +1,4 @@
-[![MasterHead](https://www.ecomsolver.com/wp-content/uploads/2020/07/banner.jpg)]
+![MasterHead](https://cdn.vectorstock.com/i/500p/23/07/web-blue-banner-software-ui-and-development-vector-42172307.jpg)
 <h1 align="center">Amal🐈‍⬛</h1>
 <h3 align="center">Junior Data Scientist | Passionate about Data Analysis & BI | Skilled in Python, SQL, Power BI | Seeking Internship Opportunities</h3>
 
